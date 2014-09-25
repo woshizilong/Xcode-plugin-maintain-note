@@ -5,6 +5,8 @@
   2. 本地化字符串--[Lin](https://github.com/questbeat/Lin) *无效*
   3. 引用包管理器--[CocoaPods for Xcode](https://github.com/kattrali/cocoapods-xcode-plugin)
   4. 大段文本利器--[HOStringSense](https://github.com/holtwick/HOStringSense-for-Xcode)
+  5. TODO一览工具--[XToDo](https://github.com/trawor/XToDo)
+  6. 代码格式化工具--[ClangFormat](https://github.com/travisjeffery/ClangFormat-Xcode)
 
 
 ### 2014/9/24 Xcode升级到6.0后的插件重载
