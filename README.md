@@ -1,5 +1,8 @@
 #Xcode-plugin-maintain-note
 
+### 2014/9/26 Xcode6安装插件
+  1. 代码单词高亮--[XcodeBoost](https://github.com/fortinmike/XcodeBoost)
+
 ### 2014/9/25 Xcode升级到6.0后的插件确认
   1. 代码自动补全--[FuzzyAutocompletePlugin](https://github.com/chendo/FuzzyAutocompletePlugin)
   2. 本地化字符串--[Lin](https://github.com/questbeat/Lin) *无效*
